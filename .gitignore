@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/ConvertingStuff/v14
+/ConvertingStuff/obj
+/ConvertingStuff/bin
+/ConvertingStuff.vssscc
